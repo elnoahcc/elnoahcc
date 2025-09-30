@@ -53,8 +53,7 @@
 ---
 
 ## 📌 Featured Projects
-- **[Gema Aksi](#)** → Website sosial & aksi kolaboratif berbasis digital  
-- **[Mosyen AI](#)** → Motion capture platform terintegrasi AI untuk analisis gerakan  
+- **[Gema Aksi](#)** → Website sosial & aksi kolaboratif berbasis digital
 - **UI Design Collection** → Prototype, Instagram feeds, & digital posters  
 
 ---
